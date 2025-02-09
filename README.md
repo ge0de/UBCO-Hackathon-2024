@@ -6,6 +6,9 @@
 
 # Team Members
 * ge0de
+* swaglord2808
+* (TBD)
+* (TBD)
 
 ## Inspiration
 Unconventional Avant-Garde Originality.
